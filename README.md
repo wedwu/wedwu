@@ -28,7 +28,7 @@ Web Components · Lit · Figma tokens · Storybook · Turborepo · Changesets
 An Angular 21 dashboard built on Web Awesome web components, ported from a React version to show the same UI expressed in idiomatic Angular: standalone components, signals and typed services.
 
 Angular 21 · TypeScript · Web Components
-[Code](https://github.com/wedwu/angular-webawesome)
+**[Live demo](https://wedwu.github.io/angular-webawesome/)** · [Code](https://github.com/wedwu/angular-webawesome)
 
 ### [Angular JWT App](https://github.com/wedwu/angular-jwt-app-)
 An Angular 17 app with JWT authentication, role-based routing, Angular Material and Jasmine/Karma unit tests, backed by a JSON Server API.
