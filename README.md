@@ -30,11 +30,11 @@ An Angular 21 dashboard built on Web Awesome web components, ported from a React
 Angular 21 · TypeScript · Web Components
 **[Live demo](https://wedwu.github.io/angular-webawesome/)** · [Code](https://github.com/wedwu/angular-webawesome)
 
-### [Angular JWT App](https://github.com/wedwu/angular-jwt-app-)
+### [Angular JWT App](https://github.com/wedwu/angular-jwt-app)
 An Angular 17 app with JWT authentication, role-based routing, Angular Material and Jasmine/Karma unit tests, backed by a JSON Server API.
 
 Angular 17 · Angular Material · JWT · Jasmine
-[Code](https://github.com/wedwu/angular-jwt-app-)
+[Code](https://github.com/wedwu/angular-jwt-app)
 
 ## Selected professional work (code private)
 
