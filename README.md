@@ -18,6 +18,12 @@ A small design system built the way larger ones are: two-layer design tokens wit
 Lit · TypeScript · Storybook · Design tokens · Playwright · axe-core
 **[Live Storybook](https://wedwu.github.io/harbor-ui/)** · [Code](https://github.com/wedwu/harbor-ui)
 
+### [Soar Design System](https://github.com/wedwu/soar-design-system)
+A design-system proposal on top of Web Awesome, re-themed from Figma variables instead of forked. A token pipeline from Figma to CSS, an ownership audit that runs axe on every story, upstream-upgrade checks, Lit molecules and organisms, and samples for Angular, React, Vue and plain HTML.
+
+Web Components · Lit · Figma tokens · Storybook · Turborepo · Changesets
+**[Live Storybook](https://wedwu.github.io/soar-design-system/)** · [Code](https://github.com/wedwu/soar-design-system)
+
 ### [Angular Web Awesome Dashboard](https://github.com/wedwu/angular-webawesome)
 An Angular 21 dashboard built on Web Awesome web components, ported from a React version to show the same UI expressed in idiomatic Angular: standalone components, signals and typed services.
 
