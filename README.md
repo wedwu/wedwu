@@ -12,6 +12,12 @@ A live, auto-arranged dependency map of networked services: health cards, sparkl
 React · TypeScript · Vite · Vitest · SVG
 **[Live demo](https://wedwu.github.io/live-topology-map/)** · [Code](https://github.com/wedwu/live-topology-map)
 
+### [Harbor UI](https://github.com/wedwu/harbor-ui)
+A small design system built the way larger ones are: two-layer design tokens with light and dark themes, accessible Web Components that work in Angular, React or plain HTML, and Storybook docs. CI checks WCAG contrast for every token pair and runs axe on every story.
+
+Lit · TypeScript · Storybook · Design tokens · Playwright · axe-core
+**[Live Storybook](https://wedwu.github.io/harbor-ui/)** · [Code](https://github.com/wedwu/harbor-ui)
+
 ### [Angular Web Awesome Dashboard](https://github.com/wedwu/angular-webawesome)
 An Angular 21 dashboard built on Web Awesome web components, ported from a React version to show the same UI expressed in idiomatic Angular: standalone components, signals and typed services.
 
@@ -33,4 +39,4 @@ Angular 17 · Angular Material · JWT · Jasmine
 
 ## Stack
 
-Angular · React · TypeScript · RxJS · Node.js · Web Components · AG-Grid · Playwright · Jest · AWS · Docker
+Angular · React · TypeScript · RxJS · Node.js · Web Components · Lit · Storybook · AG-Grid · Playwright · Jest · AWS · Docker
